@@ -15,7 +15,7 @@ Clona el repositorio:
 
 bash
 Copy
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone [https://github.com/soymica/amigosecreto_micagonzalezarg/]
 Abre el proyecto:
 
 Navega a la carpeta del proyecto:
